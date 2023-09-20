@@ -30,12 +30,12 @@ Enter your SSID and password and save the settings.
 
 <img src="/getting_started/IMG_3952.jpeg"><br>
 
-Success! You can go to the Access Point main screen by visiting the ip-adres shown on the screen in you browser.
+Success! You can go to the Access Point main screen by visiting the ip-adres shown on the tft with your browser.
 
 ## Flashing the ESP32-C6
 
 We still need to flash the ESP32-C6. For that, from the Access Point main screen, go to 'AP config' -> 'update' -> 'advanced options' -> 'Update ESP32-C6'.
-Finished? Congratulations, you have a running Access Points
+Finished? Congratulations, you have a running Access Point!
 
 ## Connecting the tags
 
