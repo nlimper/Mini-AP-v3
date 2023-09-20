@@ -28,7 +28,7 @@ We start with mounting the ESP32-S3. That's the little board with castelated hol
 <img src="IMG_3765.jpeg" width="80%">
 
 3.
-Before we continu, we test if the ESP32-S3 is mounted right. Connect a usb-c cable to the USB S3 port and to your computer. You can either use PlatformIO to flash the OpenEpaperLink software on it (make sure you choose the environment 'ESP32_S3_16_8_YELLOW_AP'), or just start a serial terminal (115200 baud 8N1) to see if you ESP32-S3 gives a boot message when you press the S3_RST button on the pcb.
+Before we continu, we test if the ESP32-S3 is mounted right. Connect a usb-c cable to the USB S3 port and to your computer. You can either use PlatformIO or https://install.openepaperlink.de to flash the OpenEpaperLink software on it (make sure you choose the environment 'ESP32_S3_16_8_YELLOW_AP'), or just start a serial terminal (115200 baud 8N1) to see if you ESP32-S3 gives a boot message when you press the S3_RST button on the pcb. See the [/getting_started](/getting_started) section for instructions for flashing.
 
 4.
 Continue by placing the ESP32-C6. Same produre as the ESP32-S3. Don't forget a good visual inspection.
