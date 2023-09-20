@@ -20,15 +20,15 @@ To flash the ESP32-S3, you have a few options:
 
 Once the firmware is there, you can update the firmware over the air. By choosing 'AP config' -> 'update', you can see if there is a newer release, and apply the new firmware from there without a connection to your computer. From now on, you can simple connect the Access Point to any USB charger.
 
-<img src="getting_started/init.jpg"><br>
+<img src="/getting_started/init.jpg"><br>
 
 If all went well, you will see this screen. Now, to configure the WiFi settings, connect to the OpenEpaperLink WiFi network with your phone or notebook, and visit http://192.168.4.1/setup 
 
-<img src="getting_started/IMG_3950.jpeg" width="400"><br>
+<img src="/getting_started/IMG_3950.jpeg" width="400"><br>
 
 Enter your SSID and password and save the settings.
 
-<img src="getting_started/IMG_3952.jpeg"><br>
+<img src="/getting_started/IMG_3952.jpeg"><br>
 
 Success! You can go to the Access Point main screen by visiting the ip-adres shown on the screen in you browser.
 
