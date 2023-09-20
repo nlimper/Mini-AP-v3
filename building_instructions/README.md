@@ -69,7 +69,16 @@ Final steps: use thin double sided tape to carefully stick the tft in place. Pla
 
 ## Software
 
-If you did't flash the ESP32-S3 software at point 3, do it now. 
-The display should show it started a Wifi access point 'OpenEpaperLink'. Connect to it and visit http://192.168.4.1 . The ESP32-C6 doesn't have any software yet, so on the webpage it shows 'failed'. Go to APconfig, WiFi config, and enter the credentials of the WiFi connection. Save Wifi settings and reboot.
+Congratulations, your hardware is ready! 
 
-to be continued...
+Now, the next step is to install the firmware. See the [/getting_started](/getting_started) section for instructions for flashing.
+
+## Help, I messed up!
+
+It can always happen that things go wrong. 0603 leds flying away onto the carpet, you heat the tft cable too much and contacts fry off, or you misplaced something. Or it simple doesn't work after you checked everything. Don't panic!
+
+First thing if it doesn't work, is to realise that it's either an unconnected connection, or a short. Check for shorts between every two adjacent pins on the esp32-S3 and -C6.
+
+If you lose or break some part, everything is replaceble. Trying to find the part on Amazon or Aliexpress is the easiest and most affordable. If you cannot find anything or break your pcb, just send me a message.
+
+
